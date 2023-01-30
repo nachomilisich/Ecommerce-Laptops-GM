@@ -198,15 +198,15 @@ header {
   height: 3rem;
   background-image: linear-gradient(
     to top,
-    var(--primary-color-alt),
-    black
+    rgba(0, 0, 0, 0.562),
+    var(--second-color)
   );
 }
 .offer-description .cart-btn:hover {
   background-image: linear-gradient(
     to bottom,
-    black,
-    var(--primary-color)
+    rgba(0, 0, 0, 0.565),
+    var(--primary-color-alt)
   );
 }
 
