@@ -189,6 +189,7 @@ header {
   cursor: pointer;
   color: black;
   font-size: 1.1rem;
+  font-weight: bold;
   display: grid;
   place-items: center;
   margin: 2rem 0 1rem 0;
@@ -198,13 +199,13 @@ header {
   background-image: linear-gradient(
     to top,
     var(--primary-color-alt),
-    var(--primary-color)
+    black
   );
 }
 .offer-description .cart-btn:hover {
   background-image: linear-gradient(
     to bottom,
-    var(--primary-color-alt),
+    black,
     var(--primary-color)
   );
 }
