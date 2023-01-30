@@ -61,6 +61,7 @@ header {
     var(--primary-color)
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .nav-items {
@@ -78,6 +79,7 @@ header {
     var(--primary-color)
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .nav-link::before {
@@ -108,6 +110,7 @@ header {
     var(--primary-color)
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   display: none !important;
 }
@@ -128,6 +131,7 @@ header {
     var(--primary-color)
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-top: 2rem;
   font-size: 1.5rem;
@@ -140,6 +144,7 @@ header {
     var(--primary-color)
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-top: 1rem;
   font-size: 1.2rem;
